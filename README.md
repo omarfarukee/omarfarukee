@@ -15,7 +15,13 @@ Becoming a good minded developer requires the right intention, hard work and pra
 - 💬 Ask me about Web Development  
 - 📫 How to reach me:  umarfaruque1920@gmail.com 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@umar_faruq35940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@umar_faruq35940" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsqxcaybdrugvjo0kuld9aq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bsqxcaybdrugvjo0kuld9aq%3d%3d" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100064049902400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100064049902400" height="30" width="40" /></a>
+<a href="https://discord.gg/Omar_Faruk#0401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Omar_Faruk#0401" height="30" width="40" /></a>
+</p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omarfarukee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAAMwvIOkSXuCgevY5iPXwA%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100064049902400)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/umar_faruq35940)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarfarukee)](https://github.com/ryo-ma/github-profile-trophy)
