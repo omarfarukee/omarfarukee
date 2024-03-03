@@ -1,4 +1,5 @@
-# 👋Hi there | I'm Omar Faruk <br> <span> ## Full-Stack Web Developer </span>
+# 👋Hi there | I'm Omar Faruk <br> 
+### Full-Stack Web Developer
  
 
 <!--
