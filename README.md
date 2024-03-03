@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Omar  Faruk
+# <p align="center"> Hi there 👋, I'm Omar  Faruk </p>
 ### I am a Full-Stack web developer
 
 ![I am a Full-Stack web developer](https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif)
