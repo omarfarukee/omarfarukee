@@ -1,5 +1,5 @@
-# 👋Hi there | I'm Omar Faruk
-  ## Full-Stack Web Developer
+# 👋Hi there | I'm Omar Faruk <br> ## Full-Stack Web Developer
+ 
 
 <!--
 **omarfarukee/omarfarukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
