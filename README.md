@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋, I'm Omar  Faruk </p>
 ### I am a Full-Stack web developer
-<div style="display: flex">
+<div  style="display: flex; flex-direction: row;">
  <p>
 Becoming a good minded developer requires the right intention, hard work and practice. So for almost a long year I was able to identify myself as a Full-Stack web developer by adopting that consistency. I have learned a lot in my journey as a developer and I'm still learning and will learn in the future.
 </p> 
