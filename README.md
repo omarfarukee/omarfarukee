@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omarfarukee" height="220" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=omarfarukee&theme=dark" height="220" alt="streak graph"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
