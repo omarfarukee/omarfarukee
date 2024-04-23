@@ -1,6 +1,6 @@
 
   
-<div style="background: url([https://media.istockphoto.com/id/1269517153/video/soft-wave-pattern.jpg?s=640x640&k=20&c=tRhOfZT3mmhkzYLzFRJBjYwjt81dX711spudm4m0HDk=]); background-size: cover; background-position: center; height: 300px;">
+<div style="background-image: url([https://media.istockphoto.com/id/1269517153/video/soft-wave-pattern.jpg?s=640x640&k=20&c=tRhOfZT3mmhkzYLzFRJBjYwjt81dX711spudm4m0HDk=]); background-size: cover; background-position: center; height: 300px;">
   <p>Hello</p>
 </div>
 
