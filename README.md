@@ -1,6 +1,10 @@
 
-<div align="center"><img  width="" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif" />
+<div style="background-image: linear-gradient(to right, #ff0000, #00ff00);">
+  <div align="center"><img  width="" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif" />
 </div>
+</div>
+
+
 
 ## 🔥 Current Stats
 
@@ -33,9 +37,4 @@
 - 🤔 I’m looking for help with new Technology 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me:  umarfaruque1920@gmail.com
-  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omarfarukee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
