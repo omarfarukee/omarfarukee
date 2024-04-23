@@ -2,6 +2,8 @@
 <div align="center"><img  width="" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif" />
 </div>
 
+### 
+<h3 align="left">🔥 Cuurent Status </h3>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfarukee) 
 
  <p align="center" text="center">
