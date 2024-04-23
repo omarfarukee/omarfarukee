@@ -3,12 +3,15 @@
  <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
 </div>
 
-<div style="display: flex;">
-  <div>  <div style="padding: 10px; background-color: #f0f0f0;">Content for Div 1</div>
+<div display="flex">
+  <div> 
+   <p>dfhajf</p>
   </div>
-  <div>  <div style="padding: 15px; border: 1px solid #ddd;">Content for Div 2</div>
+  <div>  
+     <p>dfhajf</p>  
   </div>
-  <div>  <div style="padding: 20px; background-color: #eee;">Content for Div 3</div>
+  <div>  
+   <p>dfhajf</p>
   </div>
 </div>
 
