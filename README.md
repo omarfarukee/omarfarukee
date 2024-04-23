@@ -1,6 +1,6 @@
 
   
-<div style="background: url([https://media.istockphoto.com/id/1269517153/video/soft-wave-pattern.jpg?s=640x640&k=20&c=tRhOfZT3mmhkzYLzFRJBjYwjt81dX711spudm4m0HDk=](https://i.pinimg.com/originals/13/18/e1/1318e11aee7e8d6c9a9bf0f6368873a9.gif)); background-size: cover; background-position: center; height: 300px;">
+<div style="background: url([https://media.istockphoto.com/id/1269517153/video/soft-wave-pattern.jpg?s=640x640&k=20&c=tRhOfZT3mmhkzYLzFRJBjYwjt81dX711spudm4m0HDk=]); background-size: cover; background-position: center; height: 300px;">
   <p>Hello</p>
 </div>
 
