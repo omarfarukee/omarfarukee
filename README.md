@@ -1,6 +1,6 @@
 
 <div>
- <img src="https://i.ibb.co/J2HYhPT/output-onlinegiftools-1.gif" alt="output-onlinegiftools-1" border="0">
+ <img src="https://i.ibb.co/J2HYhPT/output-onlinegiftools-1.gif">
 </div>
 
 
