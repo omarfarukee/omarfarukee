@@ -10,7 +10,7 @@
   <div align="middle">  
      <p>dfhajf</p>  
   </div>
-  <div>  
+  <div align="end">  
    <p>dfhajf</p>
   </div>
 
