@@ -13,6 +13,7 @@ Becoming a good minded developer requires the right intention, hard work and pra
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with new Technology 
 - 💬 Ask me about Web Development  
-- 📫 How to reach me:  umarfaruque1920@gmail.com 
+- 📫 How to reach me:  umarfaruque1920@gmail.com
+  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfarukee)  
 
