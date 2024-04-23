@@ -1,6 +1,6 @@
 
   
-<div style="background: url(https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif); background-size: cover; background-position: center; height: 300px;">
+<div style="background: url(https://media.istockphoto.com/id/1269517153/video/soft-wave-pattern.jpg?s=640x640&k=20&c=tRhOfZT3mmhkzYLzFRJBjYwjt81dX711spudm4m0HDk=); background-size: cover; background-position: center; height: 300px;">
   <p>Hello</p>
 </div>
 
