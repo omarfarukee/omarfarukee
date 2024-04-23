@@ -2,7 +2,7 @@
 <div align="center"><img  width="" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif" />
 </div>
 
-<div  align="center">![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfarukee)  </div>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfarukee) 
 
  <p align="center" text="center">
 Becoming a good minded developer requires the right intention, hard work and practice. So for almost a long year I was able to identify myself as a Full-Stack web developer by adopting that consistency. I have learned a lot in my journey as a developer and I'm still learning and will learn in the future.
