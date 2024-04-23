@@ -3,6 +3,11 @@
  <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
 </div>
 
+<div style="display: flex; flex-direction: column;">
+  <div style="padding: 10px;">Content for Div 1</div>
+  <div style="padding: 15px;">Content for Div 2</div>
+  <div style="padding: 20px;">Content for Div 3</div>
+</div>
 
 ## 🔥 Current Stats
 
