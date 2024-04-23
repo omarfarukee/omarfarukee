@@ -14,17 +14,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,firebase,react,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,redux,scss,git,github" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nextjs,redux,scss,git,github,postman" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,vite,npm,yarn,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,npm,yarn,vercel,netlify,figma" />
   </a>
 </p>
 
