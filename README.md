@@ -3,8 +3,8 @@
  <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
 </div>
 
-<div display:flex>
-  <div> 
+
+  <div align="left"> 
    <p>dfhajf</p>
   </div>
   <div>  
@@ -13,7 +13,7 @@
   <div>  
    <p>dfhajf</p>
   </div>
-</div>
+
 
 
 ## 🔥 Current Stats
