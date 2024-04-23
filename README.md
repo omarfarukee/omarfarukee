@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://community.adobe.com/legacyfs/online/1754692_lines.gif">
+ <img src="https://cdn.dribbble.com/users/1248622/screenshots/6669911/mg.gif">
 </div>
 
 
