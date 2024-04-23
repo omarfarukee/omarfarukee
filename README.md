@@ -7,7 +7,7 @@
   <div align="left"> 
    <p>dfhajf</p>
   </div>
-  <div>  
+  <div align="middle">  
      <p>dfhajf</p>  
   </div>
   <div>  
