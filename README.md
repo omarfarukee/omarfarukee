@@ -15,7 +15,6 @@ Becoming a good minded developer requires the right intention, hard work and pra
 - 💬 Ask me about Web Development  
 - 📫 How to reach me:  umarfaruque1920@gmail.com 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarfarukee)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukee)](https://github.com/anuraghazra/github-readme-stats)
 
