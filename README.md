@@ -3,7 +3,7 @@
  <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
 </div>
 
-<div display="flex">
+<div display:flex>
   <div> 
    <p>dfhajf</p>
   </div>
