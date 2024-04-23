@@ -1,5 +1,5 @@
 
-<div style="background-image: linear-gradient(to right, #3f5efb, #fc466b);">
+<div style="background:linear-gradient(to right,#3f5efb,#fc466b)">
  
 <p>hello</p>
 </div>
