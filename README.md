@@ -1,6 +1,6 @@
 
   
-<div style="background-image: url(https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif); background-size: cover; background-position: center; height: 300px;">
+<div style="background-image: url("https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif"); background-size: cover; background-position: center; height: 300px;">
   <p>Hello</p>
 </div>
 
