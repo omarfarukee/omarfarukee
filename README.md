@@ -1,8 +1,12 @@
 
-<div style="background:linear-gradient(to right,#3f5efb,#fc466b)">
- 
-<p>hello</p>
-</div>
+<svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(to right, #3f5efb, #fc466b); width: 100%; height: 100%;">
+      <p style="color: white; text-align: center;">Hello</p>
+    </div>
+  </foreignObject>
+</svg>
+
 
  <div align="center"><img  width="" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif" />
 </div>
