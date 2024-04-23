@@ -35,7 +35,8 @@
 - 📫 How to reach me:  umarfaruque1920@gmail.com
   
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omarfarukee&show_icons=true&count_private=true&hide_border=true&background=45%2C00E9D7%2C7952EB78" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+</div>  
 
 <br/>  
 
