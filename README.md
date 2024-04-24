@@ -7,7 +7,9 @@
      <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
 </div>
 
-
+<div align="center">
+     <img height="150" src="https://i.imgur.com/xs9rNO0.gif"/>
+</div>
 
 
 ## 🔥 Current Stats
@@ -18,7 +20,9 @@
 
 
 ##  💻 Languages and Tools 
-
+<div align="center">
+<img height="130"  src="https://i.imgur.com/w2OfbBU.gif"/>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,19 +40,20 @@
   </a>
 </p>
 
-<div align="center">
-<img width="1000" height="150" src="https://i.imgur.com/SsB5RYb.gif"/>
-</div>
 
-## 👀 Current Current overview
+## 👀 Current Current overview 
+<img width="600" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
 
 - 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with new Technology 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me:  umarfaruque1920@gmail.com
+  
 
-<h2>⚡ Stats ⚡</h2>
+</div>
+
+<h2>⚡ Stats ⚡</h2> 
 
   <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=omarfarukee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
