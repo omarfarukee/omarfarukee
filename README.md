@@ -40,8 +40,15 @@
   </a>
 </p>
 
+## 📭 Reach me out
+<div align="center">
+<a align="left" target="_blank" href="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDT0cb4pnSgWReNbnhdjO6A%3D%3D"><img width="250" src="https://i.imgur.com/CIlfCfv.png"/></a> 
+<a align="center" target="_blank" href="https://twitter.com/umar_faruq35940"><img width="190" src="https://i.imgur.com/akpeaf8.png"/></a> 
+<a align="right" target="_blank" href="https://www.facebook.com/profile.php?id=100064049902400"><img width="220"  src="https://i.imgur.com/3Mj63qR.png"/></a> 
+</div>
 
-## 👀 Current Current overview 
+
+## 👀 Current overview 
 <img width="500" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
 
 - 🌱 I’m currently learning Redux 
@@ -51,7 +58,6 @@
 - 📫 How to reach me:  umarfaruque1920@gmail.com
   
 
-</div>
 
 <h2>⚡ Stats ⚡</h2> 
 
