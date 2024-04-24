@@ -42,7 +42,7 @@
 
 
 ## 👀 Current Current overview 
-<img width="600" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
+<img width="500" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
 
 - 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on Github 
