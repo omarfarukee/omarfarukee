@@ -51,7 +51,7 @@
 ## 👀 Current overview 
 <img width="500" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
 
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with new Technology 
 - 💬 Ask me about Web Development  
