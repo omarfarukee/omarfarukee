@@ -26,17 +26,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,firebase,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,tailwind,bootstrap,js,ts,firebase,react,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,nextjs,redux,scss,git,github,postman,materialui" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nextjs,redux,scss,git,github,postman,materialui,threejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vite,npm,yarn,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,npm,yarn,vercel,netlify,figma" />
   </a>
 </p>
 
