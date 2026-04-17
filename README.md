@@ -1,7 +1,9 @@
-
 <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+OMAR+FARUK!;+I'm+a+MERN-stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=80&duration=5000&lines=Hi+There!+👋+I'm+OMAR+FARUK;+Software+Engineer+/+Developer;+Passionate+about+clean+code+and+modern+web+apps;+Currently+exploring+.NET+%26+System+Design" />
 </div>
+<!-- <div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+OMAR+FARUK!;+I'm+a+MERN-stack+Developer" />
+</div> -->
 
 <div align="center">
      <img src="https://i.imgur.com/AUDG8ML.gif" style="border-radius: 10;">
@@ -46,12 +48,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfarukee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-## 📭 Reach me out
-<div align="center">
-<a align="left" target="_blank" href="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDT0cb4pnSgWReNbnhdjO6A%3D%3D"><img width="250" src="https://i.imgur.com/CIlfCfv.png"/></a> 
-<a align="center" target="_blank" href="https://twitter.com/umar_faruq35940"><img width="190" src="https://i.imgur.com/akpeaf8.png"/></a> 
-<a align="right" target="_blank" href="https://www.facebook.com/profile.php?id=100064049902400"><img width="220"  src="https://i.imgur.com/3Mj63qR.png"/></a> 
-</div>
+
 
 
 ## 💼 My Professional Experience
@@ -111,3 +108,12 @@
   <img width="235" src="https://assets-global.website-files.com/624c384f8381545e20dec7ac/631777f4355814432ef5cb02_Copy%20of%20_MAIN_anim_open_banking.gif"/>
 
   </div>
+
+  
+## 📭 Reach me out
+
+<div align="center">
+<a align="left" target="_blank" href="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDT0cb4pnSgWReNbnhdjO6A%3D%3D"><img width="250" src="https://i.imgur.com/CIlfCfv.png"/></a> 
+<a align="center" target="_blank" href="https://twitter.com/umar_faruq35940"><img width="190" src="https://i.imgur.com/akpeaf8.png"/></a> 
+<a align="right" target="_blank" href="https://www.facebook.com/profile.php?id=100064049902400"><img width="220"  src="https://i.imgur.com/3Mj63qR.png"/></a> 
+</div>
