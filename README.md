@@ -40,11 +40,56 @@
   </a>
 </p>
 
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfarukee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
 ## 📭 Reach me out
 <div align="center">
 <a align="left" target="_blank" href="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDT0cb4pnSgWReNbnhdjO6A%3D%3D"><img width="250" src="https://i.imgur.com/CIlfCfv.png"/></a> 
 <a align="center" target="_blank" href="https://twitter.com/umar_faruq35940"><img width="190" src="https://i.imgur.com/akpeaf8.png"/></a> 
 <a align="right" target="_blank" href="https://www.facebook.com/profile.php?id=100064049902400"><img width="220"  src="https://i.imgur.com/3Mj63qR.png"/></a> 
+</div>
+
+
+## 💼 My Professional Experience
+
+<div align="center" style="border: 2px solid #00E9D7; border-radius: 15px; padding: 25px; background: #161b22; max-width: 850px; margin: 20px auto;">
+
+  <table style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+      <tr>
+        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Role</th>
+        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Company</th>
+        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Jr. Software Engineer</strong></td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Click ERP</td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d; color: #39ff14;">Currently Working</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Full Stack Developer</strong></td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Hotchpotch Innovations</td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Intern + Full Time</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Front End Developer</strong></td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;">CoderXen</td>
+        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Contract</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px;"><strong>Full Stack Developer</strong></td>
+        <td style="padding: 12px;">Starting Core - Rajsthan, India</td>
+        <td style="padding: 12px;">Intern</td>
+      </tr>
+    </tbody>
+  </table>
+
 </div>
 
 
