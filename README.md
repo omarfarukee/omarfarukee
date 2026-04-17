@@ -53,36 +53,60 @@
 
 ## 💼 My Professional Experience
 
-<div align="center" style="border: 2px solid #00E9D7; border-radius: 15px; padding: 25px; background: #161b22; max-width: 850px; margin: 20px auto;">
+<div align="center" style="border: 3px solid #00E9D7; border-radius: 20px; padding: 30px; background: linear-gradient(135deg, #0d1117, #161b22); max-width: 900px; margin: 25px auto; box-shadow: 0 0 25px rgba(0, 233, 215, 0.25);">
 
-  <table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <table style="width: 100%; border-collapse: collapse; text-align: left; max-width: 800px;">
     <thead>
       <tr>
-        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Role</th>
-        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Company</th>
-        <th style="padding: 12px; border-bottom: 2px solid #00E9D7;">Status</th>
+        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Role</th>
+        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Company</th>
+        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Status</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Jr. Software Engineer</strong></td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Click ERP</td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d; color: #39ff14;">Currently Working</td>
+      <tr style="background: #1f2937;">
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <strong style="color: #ffffff;">Jr. Software Engineer</strong>
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+          Click ERP
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <span style="color: #39ff14; font-weight: bold;">● Currently Working</span>
+        </td>
+      </tr>
+    <tr>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <strong style="color: #ffffff;">Full Stack Developer</strong>
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+          Hotchpotch Innovations
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <span style="color: #7952EB; font-weight: bold;">Intern + Full Time</span>
+        </td>
+      </tr>
+      <tr style="background: #1f2937;">
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <strong style="color: #ffffff;">Front End Developer</strong>
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+          CoderXen
+        </td>
+        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+          <span style="color: #f0b000; font-weight: bold;">Contract</span>
+        </td>
       </tr>
       <tr>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Full Stack Developer</strong></td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Hotchpotch Innovations</td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Intern + Full Time</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;"><strong>Front End Developer</strong></td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;">CoderXen</td>
-        <td style="padding: 12px; border-bottom: 1px solid #30363d;">Contract</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px;"><strong>Full Stack Developer</strong></td>
-        <td style="padding: 12px;">Starting Core - Rajsthan, India</td>
-        <td style="padding: 12px;">Intern</td>
+        <td style="padding: 16px 12px;">
+          <strong style="color: #ffffff;">Full Stack Developer</strong>
+        </td>
+        <td style="padding: 16px 12px; color: #58a6ff;">
+          Starting Core • Rajasthan, India
+        </td>
+        <td style="padding: 16px 12px;">
+          <span style="color: #ff7b72; font-weight: bold;">Intern</span>
+        </td>
       </tr>
     </tbody>
   </table>
