@@ -16,13 +16,10 @@
 
 ## 🔥 Current Stats
 
-<!-- <div align="center">
-<img src="https://streak-stats.demolab.com?user=omarfarukee&theme=highcontrast&hide_border=true&card_width=800&background=45%2C00E9D7%2C7952EB78&stroke=39D4EB&ring=0AD6EB&border=EB5454&fire=08EBEA&currStreakNum=01FFD6&sideNums=000000&currStreakLabel=00FFC1&sideLabels=000000&dates=FFFFFF" alt="GitHub Streak" />
-</div> -->
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfarukee&theme=react-dark&hide_border=true&area=true" alt="Activity" />
-</div>
+<img src="https://streak-stats.demolab.com?user=omarfarukee&theme=highcontrast&hide_border=true&card_width=800&background=45%2C00E9D7%2C7952EB78&stroke=39D4EB&ring=0AD6EB&border=EB5454&fire=08EBEA&currStreakNum=01FFD6&sideNums=000000&currStreakLabel=00FFC1&sideLabels=000000&dates=FFFFFF" alt="GitHub Streak" />
+</div> 
+
 
 ##  💻 Languages and Tools 
 <div align="center">
@@ -47,10 +44,10 @@
 
 ## 📊 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfarukee&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarfarukee&theme=react-dark&hide_border=true&area=true" alt="Activity" />
+</div>
 
 
 
