@@ -53,66 +53,79 @@
 
 ## 💼 My Professional Experience
 
-<div align="center" style="border: 3px solid #00E9D7; border-radius: 20px; padding: 30px; background: linear-gradient(135deg, #0d1117, #161b22); max-width: 900px; margin: 25px auto; box-shadow: 0 0 25px rgba(0, 233, 215, 0.25);">
+<div align="center" style="border: 3px solid #00E9D7; border-radius: 20px; padding: 30px; background: linear-gradient(135deg, #0d1117, #161b22); max-width: 950px; margin: 25px auto; box-shadow: 0 0 25px rgba(0, 233, 215, 0.25);">
 
-  <table style="width: 100%; border-collapse: collapse; text-align: left; max-width: 800px;">
+  <h2 style="color: #00E9D7; margin-bottom: 25px;">🚀 My Professional Journey</h2>
+
+  <table style="width: 100%; border-collapse: collapse; text-align: left; max-width: 900px; margin: 0 auto;">
     <thead>
       <tr>
-        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Role</th>
-        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Company</th>
-        <th style="padding: 16px 12px; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Status</th>
+        <th style="padding: 18px 15px; background: #1f2937; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Role</th>
+        <th style="padding: 18px 15px; background: #1f2937; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Company</th>
+        <th style="padding: 18px 15px; background: #1f2937; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Period</th>
+        <th style="padding: 18px 15px; background: #1f2937; color: #00E9D7; border-bottom: 3px solid #00E9D7; font-size: 1.1em;">Status</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="background: #1f2937;">
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+      <tr style="background: #161b22;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <strong style="color: #ffffff;">Jr. Software Engineer</strong>
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #58a6ff;">
           Click ERP
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #8b949e;">
+        28 Dec 2025 - Present
+        </td>
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <span style="color: #39ff14; font-weight: bold;">● Currently Working</span>
         </td>
       </tr>
-    <tr>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+      <tr style="background: #1f2937;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <strong style="color: #ffffff;">Full Stack Developer</strong>
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #58a6ff;">
           Hotchpotch Innovations
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #8b949e;">
+         3 Feb 2025 - 30 Nov 2025
+        </td>
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <span style="color: #7952EB; font-weight: bold;">Intern + Full Time</span>
         </td>
       </tr>
-      <tr style="background: #1f2937;">
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+      <tr style="background: #161b22;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <strong style="color: #ffffff;">Front End Developer</strong>
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d; color: #58a6ff;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #58a6ff;">
           CoderXen
         </td>
-        <td style="padding: 16px 12px; border-bottom: 1px solid #30363d;">
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d; color: #8b949e;">
+         01 Aug 2024 - 31 Dec 2024
+        </td>
+        <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
           <span style="color: #f0b000; font-weight: bold;">Contract</span>
         </td>
       </tr>
-      <tr>
-        <td style="padding: 16px 12px;">
+      <tr style="background: #1f2937;">
+        <td style="padding: 16px 15px;">
           <strong style="color: #ffffff;">Full Stack Developer</strong>
         </td>
-        <td style="padding: 16px 12px; color: #58a6ff;">
+        <td style="padding: 16px 15px; color: #58a6ff;">
           Starting Core • Rajasthan, India
         </td>
-        <td style="padding: 16px 12px;">
+        <td style="padding: 16px 15px; color: #8b949e;">
+         15 Dec 2022 - 15 Feb 2023
+        </td>
+        <td style="padding: 16px 15px;">
           <span style="color: #ff7b72; font-weight: bold;">Intern</span>
         </td>
       </tr>
     </tbody>
   </table>
-
 </div>
-
 
 ## 👀 Current overview 
 <img width="500" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
