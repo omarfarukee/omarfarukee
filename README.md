@@ -14,14 +14,14 @@
 </div>
 
 
-## 🔥 Current Stats
+## Current Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=omarfarukee&theme=highcontrast&hide_border=true&card_width=800&background=45%2C00E9D7%2C7952EB78&stroke=39D4EB&ring=0AD6EB&border=EB5454&fire=08EBEA&currStreakNum=01FFD6&sideNums=000000&currStreakLabel=00FFC1&sideLabels=000000&dates=FFFFFF" alt="GitHub Streak" />
 </div> 
 
 
-##  💻 Languages and Tools 
+##  Languages and Tools 
 <div align="center">
 <img height="130"  src="https://i.imgur.com/w2OfbBU.gif"/>
 </div>
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 
 <div align="center">
@@ -51,11 +51,11 @@
 
 
 
-## 💼 My Professional Experience
+##  My Professional Experience
 
 <div align="center" style="border: 3px solid #00E9D7; border-radius: 20px; padding: 30px; background: linear-gradient(135deg, #0d1117, #161b22); max-width: 950px; margin: 25px auto; box-shadow: 0 0 25px rgba(0, 233, 215, 0.25);">
 
-  <h2 style="color: #00E9D7; margin-bottom: 25px;">🚀 My Professional Journey</h2>
+  <h2 style="color: #00E9D7; margin-bottom: 25px;">My Professional Journey</h2>
 
   <table style="width: 100%; border-collapse: collapse; text-align: left; max-width: 900px; margin: 0 auto;">
     <thead>
@@ -127,18 +127,18 @@
   </table>
 </div>
 
-## 👀 Current overview 
+## Current overview 
 <img width="500" height="150" align="right" src="https://www.coheedandcambria.com/sites/g/files/g2000013396/files/2022-01/heartbeat_1_Regular.gif"/>
 
-- 🌱 I’m currently learning C# 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with new Technology 
-- 💬 Ask me about Web Development  
-- 📫 How to reach me:  umarfaruque1920@gmail.com
+-  I’m currently learning C# 
+-  I’m looking to collaborate on Github 
+-  I’m looking for help with new Technology 
+-  Ask me about Web Development  
+-  How to reach me:  umarfaruque1920@gmail.com
   
 
 
-<h2>⚡ Stats ⚡</h2> 
+<h2> Stats </h2> 
 
   <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=omarfarukee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -147,7 +147,7 @@
   </div>
 
   
-## 📭 Reach me out
+##  Reach me out
 
 <div align="center">
 <a align="left" target="_blank" href="https://www.linkedin.com/in/omar-faruk-b66513257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDT0cb4pnSgWReNbnhdjO6A%3D%3D"><img width="250" src="https://i.imgur.com/CIlfCfv.png"/></a> 
