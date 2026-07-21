@@ -78,7 +78,7 @@
         28 Dec 2025 - Present
         </td>
         <td style="padding: 16px 15px; border-bottom: 1px solid #30363d;">
-          <span style="color: #39ff14; font-weight: bold;">● Currently Working</span>
+          <span style="color: #39ff14; font-weight: bold;">● Full Time</span>
         </td>
       </tr>
       <tr style="background: #1f2937;">
